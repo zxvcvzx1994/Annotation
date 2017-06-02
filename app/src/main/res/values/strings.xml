@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn">Download Image</string>
+    <string name="txtprogress">Loading...</string>
+    <string-array name="image">
+       <item>http://saigonhoa.com/wp-content/uploads/2014/06/chum-hoa-long-den.jpg</item>
+        <item>http://hinhnendepnhat.net/wp-content/uploads/2016/09/hinh-nen-girl-dep.jpg</item>
+        <item>http://hinhanhdep.pro/content/uploads/2016/02/hinh-anh-de-thuong-cua-be-13.jpg</item>
+        <item>http://hinhanhdep.pro/content/uploads/2016/02/hinh-anh-de-thuong-cua-be-13.jpg</item>
+        <item>http://taihinhanhdep.xyz/wp-content/uploads/2016/07/hinh-anh-gai-dep-3d.jpg</item>
+
+    </string-array>
+</resources>
